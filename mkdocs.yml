@@ -50,6 +50,7 @@ nav: # Структура сайта
       - Свирь: rivers/svir.md
       - Нева: rivers/neva.md
       - Ангара: rivers/angara.md
+      - Лена: rivers/lena.md
 
 extra:
   social: # Ссылки на соц.сети
